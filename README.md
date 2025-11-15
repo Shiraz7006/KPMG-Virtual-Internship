@@ -1,7 +1,10 @@
 # KPMG-Virtual-Internship
-I did KPMG Internship virtually. It was about data analytics consulting. One business problem was given about the agency where I had to predict trends of sales of bicycles and motorbikes in the coming years. Data set(excel file) was provided with various features.
-It consisted of 3 Modules
-1. Data cleaning and email writing to client tasks
-2. Data Visualization and power point presentation
-3. Trends by graphs via Dashboards(Tableau)
+I completed a virtual internship with KPMG focused on data analytics consulting. I was given a business problem involving an agency where I had to forecast future sales trends for bicycles and motorbikes. The dataset (an Excel file) contained multiple features to analyze.
+The internship was structured into three modules:
+
+1. Data cleaning and drafting a professional email to the client
+
+2. Data visualization and creating a PowerPoint presentation
+
+3. Identifying trends using graphs and building dashboards in Tableau
    
